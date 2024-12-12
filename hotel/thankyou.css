@@ -1,0 +1,8 @@
+body{
+    background-image:url("ee.png") ;
+    height:500px;
+    background-repeat: no-repeat; 
+    background-position: center; /* Center the image */
+    background-size: cover;
+    margin: 0;
+}
